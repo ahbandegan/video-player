@@ -59,7 +59,7 @@ def main(page: Page):
                 content=Row(
                     [
                         Image(
-                            "icons\\file.png",
+                            "file.png",
                             width=100,
                             height=100
                         ),
